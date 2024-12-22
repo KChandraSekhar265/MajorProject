@@ -79,3 +79,9 @@ body{
 .del{
     display: flex;
 }
+
+#map {
+    margin-left: 100px;
+    height:400px;
+    width:100vh;
+}
